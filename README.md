@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nonvaible
-- 👀 I’m interested in JS KaiOS app development
-- 🌱 I’m currently learning JS/CSS/HTML, Java, C++, Python
-- 💞️ I’m looking to collaborate on [not given]
+- 👀 I’m interested in Authentication stuff I'll write it when I'm sure about it
+- 🌱 I’m currently learning PHP, Python
+- 💞️ I’m looking to collaborate on [still not given]
 - 📫 How to reach me kyuubisa@proton.me
 
 <!---
